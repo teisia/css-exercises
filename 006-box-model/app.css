@@ -8,3 +8,22 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.a {
+  border: 20px solid #FEF53D;
+  background-color: #FEF53D;
+}
+
+.b {
+  border: 20px solid #FF5E2E;
+  background-color: #FF5E2E;
+}
+
+.c {
+  border: 20px solid #222222;
+  background-color: #222222;
+}
+
+.d {
+  border: 20px solid #67B9E3;
+  background-color: #67B9E3;
+}
