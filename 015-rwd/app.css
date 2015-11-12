@@ -11,17 +11,17 @@ body {
 
 .container {
   clear: both;
-  width: 960px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
 .sidebar {
-  width: 300px;
+  max-width: 100%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  max-width: 100%;
   float: left;
   line-height: 1.5;
 }
@@ -32,4 +32,9 @@ body {
 
 .post-title {
   font-size: 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto !important;
 }
