@@ -38,3 +38,11 @@ img {
 }
 
 /* Code Under This Line */
+.posts {
+  position: relative;
+}
+
+.services {
+  position: absolute;
+  bottom: 0;
+}
