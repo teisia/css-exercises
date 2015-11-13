@@ -14,11 +14,12 @@ body {
 div {
   color: #7BBADE;
   background: #222;
-  border-left: 1px solid white;
+  border: 2px solid white;
+  border-radius: 10px;
   padding: 5px;
 }
 
-h2 {
+h1 {
   font-size: 40px;
   text-align: center;
 }
@@ -32,3 +33,62 @@ h3 {
 }
 
 /* Code Under This Line */
+.column1 {
+  width: 100%;
+  float: left;
+}
+
+.column2 {
+  width: 50%;
+  float: left;
+}
+
+.column3 {
+  width: 33.33%;
+  float: left;
+}
+
+.column4 {
+  width: 25%;
+  float: left;
+}
+
+.column5 {
+  width: 20%;
+  float: left;
+}
+
+.column6 {
+  width: 16.66%;
+  float: left;
+}
+
+.column7 {
+  width: 14.285%;
+  float: left;
+}
+
+.column8 {
+  width: 12.5%;
+  float: left;
+}
+
+.column9 {
+  width: 11.11%;
+  float: left;
+}
+
+.column10 {
+  width: 10%;
+  float: left;
+}
+
+.column11 {
+  width: 9.09%;
+  float: left;
+}
+
+.column12 {
+  width: 8.33%;
+  float: left;
+}
